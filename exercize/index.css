@@ -1,0 +1,17 @@
+body{
+    background-color: rgb(42, 136, 245);
+}
+
+
+.qw {
+    background-color:whitesmoke;
+    width: 300px;
+    height: 250px;
+}
+.qw h2{
+    color: grey;
+}
+#btn{
+    background-color: rgb(52, 109, 173);
+    color:white;
+}
